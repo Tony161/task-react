@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MainBlock = (props) => {
+const MainBlock = () => {
   return (
     <div className="main-block">
       <div className="block-item">
